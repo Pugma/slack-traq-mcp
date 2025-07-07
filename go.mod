@@ -8,6 +8,7 @@ require (
 	github.com/mark3labs/mcp-go v0.33.0
 	github.com/openai/openai-go v1.8.2
 	github.com/slack-go/slack v0.17.3
+	github.com/traPtitech/go-traq v0.0.0-20240725071454-97c7b85dc879
 	github.com/traPtitech/traq-ws-bot v1.2.1
 )
 
@@ -20,7 +21,6 @@ require (
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/tidwall/sjson v1.2.5 // indirect
-	github.com/traPtitech/go-traq v0.0.0-20240725071454-97c7b85dc879 // indirect
 	github.com/yosida95/uritemplate/v3 v3.0.2 // indirect
 	golang.org/x/oauth2 v0.22.0 // indirect
 )
